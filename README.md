@@ -1,2 +1,4 @@
 # study-javascript
-Javascript frameworks studies
+## Javascript frameworks studies
+### [react tic-tac-toe](./react-tic-tac-toe)
+
